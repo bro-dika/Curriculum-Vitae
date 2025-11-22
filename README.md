@@ -56,4 +56,4 @@ Dengan animasi:
 Untuk meng-clone project ini ke komputer Anda:
 
 ```bash
-git clone https://github.com/username/cv-dika.git
+git clone https://github.com/bro-dika/Curriculum-Vitae.git
